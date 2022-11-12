@@ -11,4 +11,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="greeting">Welcome!</string>
     <string name="title_activity_new_user">NewUserActivity</string>
+    <string name="instructions">Welcome, new user! Please fill out the form to continue.</string>
+    <string name="username">Username</string>
 </resources>
