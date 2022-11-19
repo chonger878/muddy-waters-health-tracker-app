@@ -16,4 +16,6 @@
     <string name="login">Login</string>
     <string name="new_user">New User?</string>
     <string name="submit">Submit</string>
+    <string name="title_activity_returning_user">ReturningUserActivity</string>
+    <string name="rSubmit">SUBMIT</string>
 </resources>
